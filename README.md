@@ -1,3 +1,5 @@
+<img width="1919" height="1079" alt="Immutable Education transaction" src="https://github.com/user-attachments/assets/a27698a9-17de-41fd-918a-3c26b5c0583b" />
+
 # 🎓 Immutable Education Records
 
 A transparent, tamper-proof, and blockchain-powered education record system built using **Solidity** and deployed on the **Celo Network**.  
